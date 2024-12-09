@@ -13,3 +13,6 @@
 <h2>Installation</h2>
 <h3>1.Clone the repository</h3>
 <p>git clone https://github.com/MonalRajput/P3-Spam-Mail-Classification-using-NLP-and-Machine-Learning.git cd P3-Spam-Mail-Classification-using-NLP-and-Machine-Learning</p>
+
+<h3>2.Run the requirement.txt file</h3>
+<p>Run the requirement.txt file to install teh requirements or you can individually install the requirements needed.</p>
